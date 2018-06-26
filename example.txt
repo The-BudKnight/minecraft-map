@@ -14,6 +14,7 @@ range = 6400
 // ==============
 //
 // You can choose an icon from the various types listed here: http://buildingwithblocks.info/index_expanded.html#locationTypes_heading
+//
 // Format:
 // Type (icon), x, z, Description, Owner, URL to image (e.g. imgur), IconIndex
 
