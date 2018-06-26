@@ -14,6 +14,7 @@ range = 6400
 // ==============
 //
 // Format:
-// Type        , x    ,  z    , Description     , Owner     , href      , IconIndex
+// Type, x, z, Description, Owner, URL to image (e.g. imgur), IconIndex
 
-PlayerHouse         ,200,200,Half-finished brick box,RoboMWM
+PlayerHouse, 200, 200, Half-finished brick box, RoboMWM
+Village, 2440, 1339, Plantation, baldwinboy
