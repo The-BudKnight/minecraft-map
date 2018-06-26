@@ -1,12 +1,3 @@
-// This example map is taken from a real server with some names and 
-// image-links changed to hide the innocent.
-//
-// Real data helps show how messy a map gets - why zoom is needed, and 
-// how labels sometimes still need a little formatting.
-
-
-// Map settings:
-// =============
 range = 6400
 
 
