@@ -11,3 +11,4 @@ range = 6400
 
 PlayerHouse, 200, 200, Half-finished brick box, RoboMWM
 Village, 2440, 1339, Plantation, baldwinboy
+PlayerCastle, 4600, 2375, BudKingt Shopping District, The_BudKnight
